@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d2ca7128f2ceb4ca2daa5b14c5371bb7a312757d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_82efafb30fecade1d12186eff8db7355c9f5dddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_eebc37f67182a5142b8dca5f385ccf5c6c5eb03f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2d66d1943c10116516d71c5814a4d7910cea1d00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_6176e1e442e0f32ab24474038fddf9a04773b809/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b99664488405eb6e6e557911b48cffa9e7f29363">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d00ffb2a5bc089a00f0ce3418a7721dd01081b8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_a0649957509d3677a5b7f62eef7ad87ab659dc8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_f657d0192a52869d227ebf7a32a9395805829374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_05f7a9745d04135c018578afa07abc66b8561ef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6704e1c79478f148cf9bf565bca436f673b413ec">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3539a439e2e6e8a0101ef2f3641a2ea341fc4649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_a01436a1b2661d60c55ed39c613bacc6ff75ddf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_e7f5b0c312905a6e9333e8acad5c76ad95119fe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_4882b21f813fad745c4e1039cc5a93613a0341eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e1ddee3392ddf069d20ef90749f02664f106b726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b7e068c4ecc3920734e8dc330f8c56237a9c6f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_09b91c7d327ed62d8a7cdf86a7e389f237205440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_a0dc5c3bcbaeeefb7fc7bfb5c288d26cdbc652f7/classes.dex" />
+    </item>
+
+</items>
