@@ -1,6 +1,46 @@
 [
     {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/savefile.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/savefile.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/newpic.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/newpic.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/greyscale.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/greyscale.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/save.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/save.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/delete.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/delete.png"
+    },
+    {
         "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/opacity.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/opacity.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/brush.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/brush.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/eraser.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/eraser.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/undo.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/undo.png"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/paintbrush.png",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/mipmap-xxxhdpi/paintbrush.png"
     }
 ]

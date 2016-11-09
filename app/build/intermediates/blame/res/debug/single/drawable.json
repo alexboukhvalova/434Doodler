@@ -28,6 +28,10 @@
         "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_dialog_material_background.xml"
     },
     {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/large.xml",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/drawable/large.xml"
+    },
+    {
         "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/notification_bg_low.xml"
     },
@@ -40,12 +44,20 @@
         "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/paint_pressed.xml",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/drawable/paint_pressed.xml"
+    },
+    {
         "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
         "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/small.xml",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/drawable/small.xml"
     },
     {
         "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
@@ -142,6 +154,14 @@
     {
         "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/medium.xml",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/drawable/medium.xml"
+    },
+    {
+        "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/paint.xml",
+        "source": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/res/drawable/paint.xml"
     },
     {
         "merged": "/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",

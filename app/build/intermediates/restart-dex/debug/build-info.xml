@@ -5,32 +5,33 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="146352686062998"
+    timestamp="14692044388580"
     token="-5376388566257586158"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="5425" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="921" />
     <task
         name="verifier"
-        duration="0" />
+        duration="69" />
+
+    <artifact
+        location="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="144641903943965"
+        timestamp="14692044388580"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="146352686062998"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

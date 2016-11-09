@@ -1,4 +1,4 @@
-#Thu Nov 03 11:11:55 EDT 2016
+#Tue Nov 08 22:30:58 EST 2016
 base.0=/Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d00ffb2a5bc089a00f0ce3418a7721dd01081b8d
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
 		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:3:5-61
 		INJECTED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/s
 		INJECTED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:6:5-19:19
 MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.0.0] /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.0.0] /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:25:5-20
@@ -25,29 +25,29 @@ MERGED from [com.android.support:support-fragment:25.0.0] /Users/alexandraboukhv
 MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:10:9-35
 	android:allowBackup
-		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.alexandraboukhvalova.cmsc434doodle.MainActivity
-ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:11:9-17:20
+ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:11:19-47
+		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:12:13-16:29
+ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/alexandraboukhvalova/AndroidStudioProjects/CMSC434Doodle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:21:5-23:78
